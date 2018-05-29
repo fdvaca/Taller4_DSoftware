@@ -16,6 +16,7 @@ public class HelloAspectJDemo {
 	      System.out.println("--------");	
 	      greeting(); 
 	      
+	      
 	  }
 
 
